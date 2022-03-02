@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ivinaustan/static/css/main.0f2a7a9d.css",
+    "main.js": "/ivinaustan/static/js/main.3561a632.js",
+    "static/js/787.7efd31bd.chunk.js": "/ivinaustan/static/js/787.7efd31bd.chunk.js",
+    "index.html": "/ivinaustan/index.html",
+    "main.0f2a7a9d.css.map": "/ivinaustan/static/css/main.0f2a7a9d.css.map",
+    "main.3561a632.js.map": "/ivinaustan/static/js/main.3561a632.js.map",
+    "787.7efd31bd.chunk.js.map": "/ivinaustan/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f2a7a9d.css",
+    "static/js/main.3561a632.js"
+  ]
+}
